@@ -1,0 +1,13 @@
+
+Added 2 Screens 
+    1. Genre Screen - displays genre and quantity of books within a particular genre.
+    2. History Screen - Displasy last three books read by the user.
+    3. Extended size of navigation buttons for better visibillity
+    4. Added a black border around genre isolator buttons
+    5. Removed all dead/unused code
+    6. Applied uniform font size to cotent details
+
+    Photo by Bruno Cervera: https://www.pexels.com/photo/art-abstract-white-design-3062948/
+    Photo by Marek Piwnicki: https://www.pexels.com/photo/a-3d-rendering-of-a-swirl-art-13328042/
+    Photo by Marek Piwnicki: https://www.pexels.com/photo/pink-and-blue-swirl-on-a-pink-background-13327736/
+    Photo by Marek Piwnicki: https://www.pexels.com/photo/yellow-and-orange-swirl-on-a-white-background-13327776/
